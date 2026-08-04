@@ -1,2 +1,30 @@
-# ski-snowboard-rental-system
-Console-based Python application for managing ski and snowboard rentals with inventory tracking and customer management.
+# Bob's Ski & Snowboard Rental System
+
+A console-based Python application that manages rentals for a ski and snowboard shop.
+
+## Features
+
+- Rent skis and snowboards
+- Return equipment
+- Track inventory
+- Apply discount coupons
+- Display invoices
+- Support multiple customers
+- End-of-day sales report
+
+## Technologies
+
+- Python
+- Object-Oriented Programming
+
+## Skills Demonstrated
+
+- Classes and objects
+- Input validation
+- File organization
+- Inventory management
+- Customer management
+
+## How to Run
+
+python main.py
