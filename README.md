@@ -28,3 +28,9 @@ A console-based Python application that manages rentals for a ski and snowboard 
 ## How to Run
 
 python main.py
+
+## Project Information
+
+This project was completed as part of a Computer Science course.
+
+My contributions included implementing the user application, integrating the provided classes, and developing the console interface and rental workflow.
